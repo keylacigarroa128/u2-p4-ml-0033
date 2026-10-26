@@ -1,4 +1,4 @@
-# KEYLA PAOLA NC = 0033Z
+# KEYLA PAOLA NC = 0033
 import pandas as pd
 import numpy as np
 
