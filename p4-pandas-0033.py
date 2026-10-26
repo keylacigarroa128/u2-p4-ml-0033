@@ -2,7 +2,6 @@
 import pandas as pd
 import numpy as np
 
-# Alonso Lopez Garcia NC. 0087 Fecha 23/octubre/2026
 n_fila = 5
 n_columnas = 5
 tag_columnas = tuple("ABCDE") # etiquetas para las columnas de una tupla

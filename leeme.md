@@ -4,7 +4,7 @@
 ![alt text](image-2.png)
 
 ## El codigo 
-![alt text](image-1.png)
+![alt text](image-3.png)
 
 ## El resultado
 ![alt text](image.png)
